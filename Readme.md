@@ -19,4 +19,5 @@ Aqui trabalhei:
 + Métodos (static e void)
 + Padrão Facade
 + Abstrações
-+ Condições
++ Condições# Desafio-Padroes
+# Desafio-Padroes
