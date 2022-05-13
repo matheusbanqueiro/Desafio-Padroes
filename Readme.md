@@ -1,4 +1,6 @@
-	
+
+
+
 <a href="https://web.dio.me/track/gft-start-5-java"><img height="150px"  align="right" align="top" src="https://user-images.githubusercontent.com/101984947/168329670-2157dcb1-d4d9-49b8-ade6-f8d1f252f05a.png"></a>
 
 <h1>Desafio de Padrões!📊</h1>
@@ -30,3 +32,8 @@ Aqui trabalhei:
 + Padrão Facade
 + Abstrações
 + Condições
+
+<hr>
+<a href="https://www.linkedin.com/in/matheus-banqueiro-lima-b594031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	
+![GitHub Org's stars](https://img.shields.io/github/stars/Matheubanqueiro?style=social)
